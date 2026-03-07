@@ -1,83 +1,91 @@
-### Resumo Profissional
+Meu nome é Douglas Barboza, sou desenvolvedor especializado em Microsoft Power Platform e tenho cerca de cinco anos de experiência projetando e implementando soluções corporativas voltadas à automação de processos e melhoria da eficiência operacional.
 
-Resumo profissional
+Ao longo da minha trajetória venho atuando de forma bastante completa dentro dos projetos, participando desde o entendimento das necessidades das áreas de negócio, passando pelo desenho da arquitetura da solução e modelagem de dados, até o desenvolvimento e implementação das aplicações.
 
-Eu sou o Douglas Barboza
-Eu sou Desenvolvedor Power Platform
+Tenho experiência com todo o ecossistema da Power Platform, principalmente Power Apps, Power Automate, RPA com Power Automate Desktop, Dataverse e Power BI, além de trabalhar frequentemente com SharePoint e SQL Server em cenários de integração e gestão de dados.
 
-Sou desenvolvedor especializado em Microsoft Power Platform, com cerca de cinco anos de experiência trabalhando na criação de soluções que ajudam empresas a automatizar processos e melhorar a eficiência das operações.
+Algo que considero um diferencial no meu perfil é justamente a capacidade de conectar tecnologia com necessidades reais de negócio, ajudando as áreas a transformar processos manuais e complexos em soluções digitais mais eficientes, seguras e escaláveis.
 
-Ao longo da minha trajetória, tenho atuado de forma bastante completa nos projetos, desde o entendimento das necessidades das áreas de negócio, passando pelo desenho da solução e estrutura de dados, até o desenvolvimento e implementação das aplicações.
+Um projeto que gosto bastante de destacar foi um que desenvolvi para a Prosegur, uma multinacional do setor de segurança com operações no Brasil e na Espanha. Na época, a empresa utilizava uma planilha de Excel extremamente complexa para realizar o processo de precificação de contratos, o que tornava o fluxo muito manual e demorado, levando entre 5 e 10 dias para ser concluído.
+Durante o projeto, participei desde o levantamento de requisitos até o desenho da arquitetura da solução e desenvolvimento da plataforma, utilizando Power Apps, Power Automate e integração com uma API em C# / .NET, além de posteriormente integrar os dados ao Microsoft Power BI para geração de análises e dashboards. O impacto foi bastante relevante: o processo de precificação passou de até 10 dias para cerca de 2 dias, trazendo muito mais agilidade para a área comercial da empresa.
 
-Tenho experiência com todo o ecossistema da Power Platform, principalmente Power Apps, Power Automate, RPA com Power Automate Desktop, Dataverse e Power BI, além de trabalhar bastante com SharePoint e SQL Server em cenários de integração e gestão de dados.
+Outro projeto bastante relevante foi o Pipeland, desenvolvido na empresa em que atuo atualmente. Esse projeto estava relacionado ao processo de aquisição e análise de propriedades rurais para plantio de macaúba, utilizada na produção de biodiesel. Era um processo com grande volume de documentos e diversas etapas de validação e aprovação, o que tornava a análise lenta e suscetível a erros.
+Nesse caso, fui responsável por definir a arquitetura da solução e liderar tecnicamente o desenvolvimento, utilizando Power Apps para a interface da aplicação, Power Automate e RPA para automação dos processos e Microsoft Dataverse para armazenamento seguro dos dados. Um diferencial foi a integração com OpenAI, permitindo a extração automática de informações dos documentos e validação com base em parâmetros definidos pelo negócio. Como resultado, conseguimos reduzir em até 80% o tempo necessário para validar uma propriedade, além de diminuir significativamente erros humanos no processo.
 
-Gosto muito de atuar próximo das áreas de negócio e dos stakeholders, ajudando a transformar problemas operacionais em soluções digitais que realmente tragam impacto para o dia a dia das pessoas.
+Durante minha carreira também tive a oportunidade de atuar como instrutor de Power Platform, apoiar na formação de estagiários e servir como referência técnica em alguns projetos, trabalhando com empresas de grande porte como TIM, Vale, Petrobras, Embraer, Eletrobras, Mercedes-Benz e BASF.
 
-Durante minha trajetória também tive a oportunidade de atuar como instrutor de Power Platform, apoiar no desenvolvimento de estagiários e servir como referência técnica em alguns projetos, trabalhando com clientes de grande porte como Prosegur, TIM, Vale, Petrobras, Embraer, Acelen, Meta, Eletrobras, Mercedes e BASF.
+Em relação à formação, sou graduado em Análise e Desenvolvimento de Sistemas e também possuo formação técnica em Administração, o que me ajuda bastante a ter uma visão mais ampla entre tecnologia e processos de negócio.
 
-Apesar de não atuar diretamente com liguagens de programação, possuo conhecimento em JavaScript, HTML, CSS, C#/.Net e Python, e já atuei não como protagonista mas como ajuda colaborativa na elaboração de sistemas web e API´s de soluções que se conectavam a sistema elaboradas dentro da Power Platform.
+Também possuo certificações da Microsoft voltadas à Power Platform:
 
-#### Case 1
+Microsoft Power Platform App Maker Associate
 
-Um projeto que gosto bastante de destacar foi um que desenvolvi para a Prosegur, uma multinacional do setor de segurança com operações no Brasil e na Espanha.
+Microsoft Power Platform Fundamentals
 
-**Situação:**
-A empresa utilizava uma planilha de Excel extremamente complexa, com mais de 22 MB, para realizar o processo de precificação de contratos. Esse processo era bastante manual, difícil de manter e levava entre 5 e 10 dias para ser concluído, o que impactava diretamente a agilidade comercial da empresa.
+E continuo investindo no meu desenvolvimento profissional, com o objetivo de evoluir também em certificações relacionadas a Power Platform e Inteligência Artificial.
 
-**Tarefa:**
-Inicialmente fui alocado no projeto como desenvolvedor, mas ao longo do tempo acabei assumindo também a liderança técnica da solução, participando desde o levantamento de requisitos com as áreas de negócio até a definição da arquitetura e desenvolvimento da plataforma.
+De forma geral, eu me considero um profissional que gosta muito de resolver problemas reais utilizando tecnologia, especialmente através de automação e digitalização de processos, sempre buscando gerar impacto positivo nas operações das empresas.
 
-Ação:
-Estruturei a solução utilizando Power Apps para construção da aplicação e Power Automate para automação dos fluxos de cálculo e processamento. Também participamos da criação de uma API externa em C# / ASP.NET Core para executar cálculos mais complexos que exigiam maior capacidade de processamento. Após a primeira versão da solução, evoluímos o projeto integrando a base de dados ao Microsoft Power BI para criação de dashboards analíticos e acompanhamento dos resultados.
+1 - Role Focus Summary
+This role is centered on developing, customizing, and maintaining Power Platform solutions in a mid-level capacity. The client’s priority lies in constructing scalable applications, automations, and dashboards that address real business needs. They will look for signals of technical proficiency in Power Apps, Power Automate, Power BI, and Dataverse, along with an awareness of best practices for performance, security, and governance. Demonstrating your ability to translate client requirements into robust technical solutions while adhering to project timelines will be key.
 
-Resultado:
-Embora o projeto tivesse um prazo inicial estimado de um ano e meio, conseguimos entregar a primeira versão funcional em apenas seis meses. O impacto foi muito relevante: o processo de precificação que antes levava até 10 dias passou a ser concluído em cerca de 2 dias, trazendo mais agilidade para as áreas comerciais e maior confiabilidade nos cálculos. Foi um projeto bastante completo, onde exploramos profundamente o potencial da Microsoft Power Platform. O que abriu mais oportunidades para outros projetos usando a plataforma
+2 - How to Make a Top First Impression
+Hello, I’m Douglas. I am a Power Platform specialist with over five years dedicated to creating scalable, integrated solutions in diverse industries including finance, oil, and manufacturing. I excel at automating complex processes, designing user-friendly applications, and optimizing data visualization through Power BI. My background in systems integration and solution architecture allows me to deliver tailored services that align with business goals. I am committed to continuous learning and improvement, ensuring I contribute to innovative digital transformation projects. I am excited about the opportunity to bring my technical expertise and strategic thinking to your team in Portugal, supporting your clients’ growth and efficiency.
 
-#### Case 2
+3 - Key Preparation Themes
+Power Platform Architecture and Solution Design
+Performance Optimization and Scalability Techniques
+Data Modeling and Governance with Dataverse
+Integration Strategies with External Systems and APIs
+Deployment, Lifecycle Management, and Environment Strategy
+Business Analysis and Translating Needs into Technical Solutions
+Automated Flows with Power Automate (including Desktop RPA)
 
-Um segundo projeto que considero bastante marcante foi o Pipeland, desenvolvido na empresa em que atuo atualmente.
+4 - Interview Preparation Questions (30 Questions)
+How would you approach designing a scalable Power Apps solution for a multi-department enterprise?
+Can you describe your process for optimizing Power BI reports with large datasets?
+How do you handle security and governance when deploying Power Platform solutions across multiple environments?
+Explain how you integrate Power Automate flows with external APIs, such as SAP or custom REST endpoints.
+Describe your experience with model-driven and canvas apps. When do you prefer each type?
+How do you ensure your data models in Dataverse support both performance and future scalability?
+Tell me about a time you resolved performance bottlenecks in a Power Apps or Power BI project.
+How do you manage deployment and version control within Power Platform projects?
+What steps do you take to ensure data integrity during integrations with external systems?
+Can you walk me through your process of conducting business analysis for solution design?
+Describe your experience with creating custom connectors. What considerations do you keep in mind?
+How do you approach automating workflows for complex business scenarios?
+What are the key factors you consider when designing user interfaces in Power Apps?
+How do you handle error handling and resiliency in Power Automate flows?
+Explain how you use PowerShell in your Power Platform projects.
+How do you ensure consistent application lifecycle management in your solutions?
+Describe your experience with Data Gateways and how you use them securely.
+What strategies do you use for continuous process and solution improvement?
+How do you stay updated with Power Platform features like Copilot Studio?
+How do you document and communicate technical solutions to non-technical stakeholders?
+What challenges have you faced when working with enterprise Power Platform solutions, and how did you overcome them?
+How do you approach developing and testing complex integrations with external APIs?
+Can you explain your experience with Dataflows and how they assist in data management?
+How would you handle a situation where a Power Automate flow exceeds performance expectations?
+Describe your experience with managing environments and solutions lifecycle in Power Platform.
+How do you collaborate with backend developers, especially when working with .NET components?
+What considerations are critical when developing Power Pages for external users?
+How do you ensure your Power BI reports meet user needs and expectations?
+Describe your approach to maintaining and updating existing Power Platform environments.
+How do you prepare for a client presentation to demonstrate your solutions clearly and confidently?
 
-Situação:
-A empresa possui um processo complexo de aquisição e análise de propriedades rurais destinadas ao plantio de macaúba, utilizada na produção de biodiesel. Esse processo envolvia grande volume de documentos, diversas etapas de validação e múltiplas aprovações, o que tornava a análise bastante demorada e suscetível a erros humanos.
+5 - How to Strengthen Your Answers
+Deepen your responses with concrete examples from past projects, emphasizing your role, actions taken, and results achieved.
+Structure your answers by briefly explaining the context, the challenge, your approach, and the outcome, to provide clear and comprehensive stories.
+Avoid vague or generic statements; instead, anchor your explanations in real, tangible experiences.
+Use technical terminology when appropriate but also be prepared to simplify explanations for non-technical stakeholders.
+Practice articulating your answers smoothly, focusing on clarity and confidence.
+Reflect on instances where you improved performance, resolved issues, or successfully led a project.
 
-Tarefa:
-Fui responsável por desenhar a arquitetura da solução, definir as tecnologias utilizadas e liderar tecnicamente o desenvolvimento, com o objetivo de automatizar e otimizar todo o fluxo de validação e análise dessas documentações.
-
-Ação:
-Durante cerca de oito meses, trabalhei intensivamente na construção da solução utilizando Power Apps para a interface da aplicação, Power Automate Cloud e RPA com Power Automate Desktop para automação de processos, além do Microsoft Dataverse para gestão segura dos dados. Um dos diferenciais do projeto foi a integração com OpenAI, utilizando inteligência artificial para extrair informações automaticamente dos documentos, validar dados e compará-los com parâmetros definidos pelo negócio.
-
-Resultado:
-Com a automação do processo e o uso de IA na análise documental, conseguimos reduzir significativamente a incidência de erros humanos e melhorar o fluxo de trabalho dos analistas, diminuindo o tempo necessário para validar uma propriedade em até 80%. O projeto trouxe mais eficiência, padronização e confiabilidade para uma etapa crítica do negócio.
-
-### Idiomas
-
-Eu sou fluente em Português
-E tenho proeficiencia nível B1 em inglês, buscando sempre evoluir, e como meta alcançar o nível C1 até o final do ano. Para que isso se concretize eu tenho estudado em plataformas onlines como Open English onde me didico a fazer o máximo de aulas que consigo para alcançar a fluência.
-
-### Localização
-
-Atualmente resido no Brasil, mas tenho uma forte motivação em construir uma experiência profissional internacional. Vejo a oportunidade de trabalhar em uma empresa como a Natixis, em Portugal, como um passo importante para minha evolução profissional e pessoal, permitindo-me enfrentar novos desafios em um ambiente global e multicultural. Também me motiva muito a possibilidade de conviver diariamente com profissionais bilíngues ou multilíngues, o que contribuiria significativamente para o desenvolvimento de outras línguas e para ampliar minha visão de mundo e de trabalho, algo que hoje é mais limitado no contexto onde vivo. Acredito que essa experiência me permitirá crescer, aprender com diferentes culturas e também contribuir com minha experiência na construção de soluções tecnológicas que gerem valor para a organização.
-
-### Experiencias profissionais
-
-Atualmente eu trabalho como Consultor e desenvolvedor Power Platform na Meta IT a aproximadamente 1 ano, o pessoal se confunde com a meta do Facebook porém é uma empresa de 35 anos que nasceu no Brazil, eu trabalho alocado na empresa Acelen que é uma refinaria e minhas principais responsabilidades envolvem em Definir Requisitos, desenhar soluções desde a arquitetura, elaborar a solução e grantir a entrega com qualidade, além de apoiar a Meta na parte tecnica com a elaboração e apresentação de propostas.
-
-Também ja trabalhei na Impar IT por volta de dois anos como desenvolvedor Power platform focado em business aplication, atendendo big companies como a mineiradora VALE, Eletrobras e a telefônica TIM, minhas atividades envolviam a elaboração de aplicações complexas com Power Apps, desenvolvimento de fluxos com Power automate e portais com SharePoint, eventualmente participava da criação de Dashbords de análise com power BI
-
-Também já atuei como desenvolvedor Power Platform an ProNext, empresa referencia em Power Platform, com atuação mais focada em modelagem de dados, desgin de sistemas e levantamento e documentação de requisitos
-
-e fiz estágio acadêmico no INPE (instituto nacional de Pesquisas Espaciais) na área de dados com R e Python
-
-### Fomações
-
-Possuo graduação de nível superior em Análise e desenvolvimento de sistemas
-e formação técnica em Administração
-
-### Certificações
-
-Possuo duas certificações microsoft
-
-- Power Platform App MakerAssociate
-- Power Platform Fundamentals
-
-E também tenho meta que obter as outras de IA e Power Platform
+6 - Final Preparation Tips
+Review the key themes and questions listed, practicing your responses out loud.
+Refresh your knowledge of Power Platform best practices, including recent updates and features.
+Prepare concise, impactful opening and closing statements.
+Think about clear examples that showcase your technical expertise and problem-solving skills.
+Maintain a positive and confident mindset, trusting your experience and skills.
+Ensure your environment is quiet and professional for the interview.
+Be ready to ask insightful questions about the team, projects, and company culture.
